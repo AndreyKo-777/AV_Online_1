@@ -145,6 +145,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=COUJKUPQ
 
+[Document7]
+DocumentPath=Sheet1.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CGCMEFIM
+
 [ProjectVariant1]
 UniqueID=5BFD40CE-3133-4D7C-871A-2B85108A810B
 Description=EX384-C2-P
